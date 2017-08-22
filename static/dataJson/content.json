@@ -1,0 +1,106 @@
+{
+	"leagues":[
+		{
+			"url": "../assets/one.png",
+		    "text":"加盟流程",
+		    "content":"加盟商在工程人员指导下按统一终端视觉标准装修店面"
+		},
+		{
+			"url": "../assets/two.png",
+		    "text":"加盟政策",
+		    "content":"“以加盟商为本”与“多支持、少控制”两大加盟管理原则"
+		},
+		{
+			"url": "../assets/three.png",
+		    "text":"加盟优势",
+		    "content":"沃尔玛、三井、史泰博、华润万家等多家世界五百强企业的合作伙伴"
+		},
+		{
+			"url": "../assets/four.png",
+		    "text":"加入我们",
+		    "content":"此刻我们非常期待您的加入，加入我们，是最好的选择。你值得拥有"
+		}
+	],
+	"advance":[
+		{
+			"url": "../assets/one.png",
+		    "text":"品牌优势",
+		    "content":"百年中华老字号；2008年奥运会独家运营媒体村中国茶艺室；2010年世博会特许生产商及零售商；2014年APEC制定礼品；四川省知名品牌奖、四川省十大商业品牌奖"
+		},
+		{
+			"url": "../assets/two.png",
+		    "text":"产品优势",
+		    "content":"“以加盟商为本”与“多支持、少控制”两大加盟管理原则"
+		}
+	],
+	"NewsList":[
+		{
+			"url":"../assets/thumb1.jpg",
+			"newsTitle":"一杯清茶放空心灵的禅意",
+			"newscontent":"为了生活而忙碌，现在感觉生活压力，越来越大，烦恼越来越多，不知如何放松？如何解压？工作停不下来，下了..."
+		},
+		{
+			"url":"../assets/thumb2.jpg",
+			"newsTitle":"茶倒七分，是人生的一门哲学",
+			"newscontent":"以前不管是在酒桌上、还是在茶几上总能听到主人说“酒满茶浅”来劝酒和劝茶，但对这句话的含义却一直是半知..."
+		},
+		{
+			"url":"../assets/thumb3.jpg",
+			"newsTitle":"在宋朝当贡茶的径山茶 今成中国茶叶博物馆入馆品牌",
+			"newscontent":"除了龙井，杭州还有不少历史名茶，余杭径山的径山茶就是其中之一。今天（19日），径山茶正式入驻中国茶叶..."
+		}
+	],
+	"tea":{
+		"Oolong":{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"高山铁观音"
+		},
+		"Green":[
+			{
+				"url":"../assets/nav2.jpg",
+				"TeaText":"茉莉花茶碧螺春"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"西湖龙井"
+			}
+		],
+		"black":[
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"六堡茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"云南普洱茶"
+			}
+		],
+		"Herb":[
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"玫瑰花茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"茉莉花茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"桂花茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"菊花茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"玫瑰花茶"
+			},
+			{
+				"url":"../assets/nav1.jpg",
+				"TeaText":"茉莉花茶"
+			}
+		] 	
+	}
+	
+}
