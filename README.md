@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mui
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# mui
+>>>>>>> 28bb95e547dba01947f7c35f5d5070be5d13089a
